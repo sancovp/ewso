@@ -1,3 +1,9 @@
+# EWSO: Emergent Web Structure Ontology
+
+EWSO Overview
+
+EWSO is an ontology of a dynamic ontology engineering methodology that leverages the structured representation of knowledge to enhance LLM outputs for any purpose. EWSO involves an abstract syntax for constructing ontology engineering methodology templates LLM persona prompts can use to output structured responses. These structures are still stochastic and require rejectors in GAN-like roleplay conversation configurations in order to be corrected. This document provides the basis for a syntax formalizing the use of LLM interpreters inside AI-enabled agents to autonomously construct an ontology synthesized from aggregated outputs of prior conversations, enabling ontology-aware autonomous AI agents in a hierarchical swarm that can iteratively ontologize its own knowledge and discover emergent knowledge using PCNL (PseudoCypherNaturalLanguage, detailed below) compression and decompression.
+
 # CORL: Compressed Ontology Representation Language
 
 CORL Primer for AI Systems
