@@ -4,6 +4,10 @@ EWSO Overview
 
 EWSO is an ontology of a dynamic ontology engineering methodology that leverages the structured representation of knowledge to enhance LLM outputs for any purpose. EWSO involves an abstract syntax for constructing ontology engineering methodology templates LLM persona prompts can use to output structured responses. These structures are still stochastic and require rejectors in GAN-like roleplay conversation configurations in order to be corrected. This document provides the basis for a syntax formalizing the use of LLM interpreters inside AI-enabled agents to autonomously construct an ontology synthesized from aggregated outputs of prior conversations, enabling ontology-aware autonomous AI agents in a hierarchical swarm that can iteratively ontologize its own knowledge and discover emergent knowledge using PCNL (PseudoCypherNaturalLanguage, detailed below) compression and decompression.
 
+# What is an Emergent Web Structure?
+
+An emergent web structure is a cluster of layers of abstract emergent entities linked to each other in a transformation chain such as to represent relationships inside the relationships (like an ontological 2-morphism), which are links in a chain that results in a transformation from a dual feedback loop constructed of two dual feedback loops in a dual feedback loop with each other. In other words, it creates what is considered a complete concept, and does so by using two primary languages that can be used in workflows for ontology mining and extraction that have dual feedback loops constructed of dual feedback loops (etc). Below are presented two example primary languages: CORL and PCNL. They can combine with the EWSO principles to create a continuous ontological drilldown and abstraction engine that mines knowledge that makes sense from the observations it has about its own co-emergent flow of information (the LLM reflections).
+
 # CORL: Compressed Ontology Representation Language
 
 CORL Primer for AI Systems
