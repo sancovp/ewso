@@ -332,3 +332,21 @@ Let's Collaborate!
 
 Choose a mini-domain and design some sample PCNL-CORL pairs for a small-scale test?
 Outline an intermediate representation format to decouple natural language complexity and formalization?
+
+
+<=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=>
+
+
+# All you have to do is copy and paste the above to an LLM to get started:
+
+https://platform.openai.com/playground/p/2xti7QyrQMWWc8OFaSqfr2Ij?model=gpt-4-turbo-preview&mode=chat
+
+
+
+
+
+
+
+
+
+- OVP
