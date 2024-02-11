@@ -1,6 +1,4 @@
-# corl
-Compressed Ontology Representation Language
-
+# CORL: Compressed Ontology Representation Language
 
 CORL Primer for AI Systems
 
@@ -57,7 +55,6 @@ Translation Process
 Preprocessor: A program handles tokenization, validation of CORL syntax against the defined rules, and potential error reporting.
 OWL Generation: Follows a direct mapping from CORL constructs to their corresponding OWL axioms. May necessitate standardized OWL output format choice (XML, Functional Syntax, Manchester, etc.).
 Remember, CORL is still evolving alongside AI capabilities. Expect potential future extensions to capture nuanced logical complexities!
-
 
 
 Meta-Dataframe Structure
@@ -124,8 +121,7 @@ Datatype details depend on the chosen 'xsd' vocabulary used.
 Complex axiom representation may necessitate extensions.
 
 
-
-# PCNL
+# PCNL: PseudoCypherNaturalLanguage
 
 ### PseudoCypherNL Formal Rules:
 
@@ -237,7 +233,7 @@ not just numbering the entities themselves, but rather using the numbers of enti
 
 2. **Modularization of Components**:
    - **Rule**: Similar entities or relationships can be modularized into reusable components.
-   - **Syntax**: `M{module_name}` where `M` denotes a module, and `module_name` is a reusable component (e.g., interaction patterns).
+   - **Syntax**: `M{module_name}` where `M` denotes a module, and `module_name` is a reusable component (e.g., interaction patterns, chains, workflows, loops, dual-loops, feedback loops, etc).
 
 3. **Precision in Relationship Types**:
    - **Expansion Rule**: Introduce a broader range of relationship types while ensuring mappings back to the base types for nuanced comprehension.
@@ -281,7 +277,6 @@ OUTPUT: DomainOntology, EntityRelationshipMap
 END IIC_DDO_Tool
 
 
-
 # pcnl2corl
 
 In order to create the pcnl2corl compiler, we need to consider the following:
@@ -305,8 +300,6 @@ Version Tracking: Include robust versioning for CORL itself as it evolves, enabl
 Community Contributions: Consider an open-source development model to foster wider collaboration in pattern recognition and mapping between the natural language and formal knowledge domains.
 
 
-
-
 # Let's collaborate!
 
 Prototyping Approach
@@ -323,6 +316,7 @@ Metrics beyond syntactic validity checking are needed:
 Semantic Similarity: Determine how accurately the derived CORL reflects the original PCNL query's intent using entailment checks against other existing ontologies/knowledge sources.
 Round-Trip Translation (If Feasible): Potentially assess if reversing the compiler's operations ( CORL->PCNL) produces semantically similar constructs to the original.
 Let's Collaborate!
+
 
 # Would you like to:
 
