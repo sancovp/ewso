@@ -336,8 +336,9 @@ Outline an intermediate representation format to decouple natural language compl
 
 <=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=><=>
 
-# All you have to do is copy and paste the above to an LLM to get started:
+# All you have to do is copy and paste the above to an LLM to get started
 
+# Example: 
 https://platform.openai.com/playground/p/2xti7QyrQMWWc8OFaSqfr2Ij?model=gpt-4-turbo-preview&mode=chat
 
 
