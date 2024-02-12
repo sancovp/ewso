@@ -8,6 +8,8 @@ EWSO is an ontology of a dynamic ontology engineering methodology that leverages
 
 An emergent web structure is a cluster of layers of abstract emergent entities linked to each other in a transformation chain such as to represent relationships inside the relationships (like an ontological 2-morphism), which are links in a chain that results in a transformation from a dual feedback loop constructed of two dual feedback loops in a dual feedback loop with each other. In other words, it creates what is considered a complete concept, and does so by using two primary languages that can be used in workflows for ontology mining and extraction that have dual feedback loops constructed of dual feedback loops (etc). Below are presented two example primary languages: CORL and PCNL. They can combine with the EWSO principles to create a continuous ontological drilldown and abstraction engine that mines knowledge that makes sense from the observations it has about its own co-emergent flow of information (the LLM reflections).
 
+https://www.mermaidchart.com/raw/57ad88cf-63a3-41ec-a7ce-29b9eb711bde?theme=light&version=v0.1&format=svg
+
 # CORL: Compressed Ontology Representation Language
 
 CORL Primer for AI Systems
