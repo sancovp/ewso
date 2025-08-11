@@ -1,3 +1,82 @@
+# WIP
+
+```
+Plain:
+An Emergent Web Structure is a single object that packages all your layers as a fibred diagram of typed directed graphs—schemas, app ontology, foundation ontology, zones, instances, and code—linked by type-preserving graph morphisms (compile, align, project, materialize), with a projection from instances to classes aligned to the foundation, and whose evolution consists of typed graph rewrites.
+
+If you want the formal one-liner:
+An EWS is a functor 
+𝐷
+ ⁣
+:
+ ⁣
+𝐽
+→
+𝐺
+𝑟
+𝑎
+𝑝
+ℎ
+ 
+𝑟
+D:J→Graph 
+r
+  with alignment 
+𝛼
+:
+𝑂
+a
+p
+p
+ ⁣
+→
+𝑈
+α:O 
+app
+ →U and fibration 
+𝑝
+:
+𝑂
+I
+ ⁣
+→
+𝑂
+a
+p
+p
+p:O 
+I
+ →O 
+app
+  (hence 
+𝑂
+I
+ ⁣
+→
+𝑝
+𝑂
+a
+p
+p
+→
+𝛼
+𝑈
+O 
+I
+  
+p
+​
+ O 
+app
+  
+α
+​
+ U), where arrows in 
+𝐽
+J are the structure-preserving maps (compile/align/project/materialize) and admissible state changes are typed graph rewrites.
+```
+
+
 # EWSO: Emergent Web Structure Ontology
 
 EWSO Overview
